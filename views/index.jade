@@ -1,5 +1,22 @@
 extends layout
 
 block content
-  h1 Scraper!
-  p Welcome to #{locations}
+
+  h1 #{siteName}!
+  
+  h3 Categories
+  ul
+    each val in categories
+      li= val
+  h3 Positions
+  ul
+    each val in positions
+      li= val
+  h3 Locations
+  ul
+    each val in locations
+      li= val
+  h3 Tags
+  ul
+    each val in tags
+      li= val
