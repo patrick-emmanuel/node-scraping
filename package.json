@@ -6,9 +6,9 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "cheerio": "^1.0.0-rc.3",
-    "cookie-parser": "~1.4.3",
+    "cookie-parser": "~1.4.5",
     "debug": "~2.6.9",
     "express": "~4.17.1",
     "http-errors": "~1.6.2",
