@@ -9,7 +9,7 @@
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
     "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
+    "debug": "~4.1.1",
     "express": "~4.17.1",
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
